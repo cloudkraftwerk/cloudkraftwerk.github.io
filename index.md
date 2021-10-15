@@ -3,14 +3,11 @@ layout: page
 #title: cloudkraftwerk
 ---
 
-Pooling swarms of wind and solar power plants for priced-based control and grid balancing services in real-time.
+## Mission
 
-* A full Bootstrap 4 theme usable both on Github Pages and with a standalone Jekyll.
-* Recompiles Bootstrap from SCSS files, which allows to customize Bootstrap's variables and use Bootstrap themes.
-* Full support of Bootstrap's JavaScript plugins.
-* Supports all features of Github Pages and Jekyll.
+Enabling terrawatts of wind and solar power plants for priced-based control and grid balancing services in real-time.
 
-## Setup Guide
+## Features
 
 ### Create a repository from this template
 
