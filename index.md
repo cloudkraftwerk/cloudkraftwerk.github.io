@@ -7,25 +7,9 @@ Enabling terrawatts of wind and solar power plants for priced-based control and 
 
 # Features
 
-## Connect your assets
-
-[Go to this repository page on Github](https://github.com/nicolas-van/bootstrap-4-github-pages) and click the `Use this template` button on the top right of the page.
-
-## Choose a name for your repository
-
-Here we have two possibilities:
-
-* **You want a user or organization website**
-
-  In this case your website's URL will be `http://<your username>.github.io` where `<your username>` is your Github user name.
-
-  Choose the repository name `<your username>.github.io`.
-
-* **You want a project website**
-
-  In this case your website's URL will be `http://<your username>.github.io/<whatever you want>` where `<whatever you want>` can be any valid name for a Github repository.
-
-  Choose the repository name `<whatever you want>`.
+**Easily connect and monitor your assets**
+**Lorem Ipsum**
+**Lorem Ipsum**
 
 ### Activate Github Pages on your repository
 
