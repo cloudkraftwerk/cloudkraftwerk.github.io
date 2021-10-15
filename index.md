@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Mission
+title: About
 ---
 
+---
 # Our goal is to enable terrawatts of wind and solar power plants for priced-based control and grid balancing services in real-time.
-
 ---
 
 # Capabilites
