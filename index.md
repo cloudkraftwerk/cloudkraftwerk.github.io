@@ -4,6 +4,7 @@ layout: page
 ---
 
 ![Logo](/assets/img/ck.png)
+![Logo](/assets/img/ck.png)
 
 [![GitHub Repo stars](https://img.shields.io/github/stars/nicolas-van/bootstrap-4-github-pages?style=social)](https://github.com/nicolas-van/bootstrap-4-github-pages)
 
