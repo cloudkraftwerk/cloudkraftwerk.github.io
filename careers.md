@@ -1,32 +1,32 @@
 ---
 layout: page
-#title: Open Positions
+title: Careers
 ---
 
-## Senior Backend Engineer
+# Senior Backend Engineer
 
-### Responsibilites
+## Responsibilites
 
 * Design, write, ship and maintain software components
 * Support product management with refinements
 * Take ownership of software components
 
-### Requirements
+## Requirements
 
 * Masters degree in computer science
 * 5+ years experience in a modern programming language (Golang, Java, Python)
 * Experience with MySQL databases
 * Experiences in TCP-based protocols and MQTT preferable
 
-## Technical Product Manager
+# Technical Product Manager
 
-### Responsibilites
+## Responsibilites
 
 * Design, write, ship and maintain software components
 * Support product management with refinements
 * Take ownership of software components
 
-### Requirements
+## Requirements
 
 * Design, write, ship and maintain software components
 * Support product management with refinements
