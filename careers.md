@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Open Positions
+#title: Open Positions
 ---
 
 ## Senior Backend Engineer
