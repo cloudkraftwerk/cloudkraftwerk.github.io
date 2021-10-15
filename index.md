@@ -3,19 +3,17 @@ layout: page
 #title: cloudkraftwerk
 ---
 
-## Mission
+# Mission
 
 Enabling terrawatts of wind and solar power plants for priced-based control and grid balancing services in real-time.
 
-## Features
+# Features
 
-### Create a repository from this template
+## Connect your assets
 
 [Go to this repository page on Github](https://github.com/nicolas-van/bootstrap-4-github-pages) and click the `Use this template` button on the top right of the page.
 
-[![GitHub Repo stars](https://img.shields.io/github/stars/nicolas-van/bootstrap-4-github-pages?style=social)](https://github.com/nicolas-van/bootstrap-4-github-pages)
-
-### Choose a name for your repository
+## Choose a name for your repository
 
 Here we have two possibilities:
 
