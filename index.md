@@ -1,6 +1,6 @@
 ---
 layout: page
-title: cloudkraftwerk
+#title: cloudkraftwerk
 ---
 
 ![Logo](/assets/img/ck.png)
