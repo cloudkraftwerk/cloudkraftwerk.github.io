@@ -1,9 +1,7 @@
 ---
 layout: page
-#title: cloudkraftwerk
+title: Mission
 ---
-
-# Mission
 
 Enabling terrawatts of wind and solar power plants for priced-based control and grid balancing services in real-time.
 
