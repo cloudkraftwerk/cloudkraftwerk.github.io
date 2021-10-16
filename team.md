@@ -16,18 +16,18 @@ to tidy up and decrease technical debt afterwards.
 
 # Open Positions
 
-## Asset Control
+### Asset Control
 
 * Technical Product Manager
 * Backend Engineer
 * Asset Integration Engineer
 
-## Energy Marketing
+### Energy Marketing
 
 * Technical Product Manager
 * Backend Engineer
 
-## IT Infrastructure
+### IT Infrastructure
 
 * DevOps Engineer
 * Cloud Architect
