@@ -3,11 +3,11 @@ layout: page
 title: Welcome to cloudkraftwerk
 ---
 
-**cloudkraftwerk aggregates and enables wind and solar power plants to react to energy markets in real-time.**
+**cloudkraftwerk aggregates and controls wind and solar power plants to react to energy markets in real-time.**
 
 # Why?
 
-Today, most renewable assets produce energy based on weather conditions and not based on demand. This leads to high imbalances in power grids which need to be balanced with more predictable and controllable coal, nuclear and gas power plants. Balancing the grid using conventional power plants is expensive in terms of high emissions and high balance energy prices. Today, balancing costs have to be paied by volatile renewable producers or energy consumers through taxes. This blocks the economical transistion to an entirely sustainable energy system. We think, this is unnecessary and not smart from an ecological and economical perspective. We can do better. We can use smart IoT technologies to control volatile wind and solar power production based on the energy demand in real-time and avoid overproductions and underproductions. This is our todays mission. Tomorrow, we want to combine volatile renewable producers, battery storage and power-to-hydrogen assets in an even smarter ecological and economical way.
+Today, most renewable assets produce energy based on weather conditions and not based on demand. This leads to high imbalances in power grids which need to be balanced with more predictable and controllable coal, nuclear or gas power plants. Balancing the grid using conventional power plants causes high emissions and high balance energy prices. Costs have to be paied by volatile renewable assets and hinder their economical operations. We believe in a zero-emission energy system where a pool of distributed renewable assets can balance themself. Using cloud native IoT technologies we aggregate high volatile renewable assets and control them in real-time, based on energy demand.
 
 # Features
 
