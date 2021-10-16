@@ -3,7 +3,7 @@ layout: page
 title: Welcome to the cloud-native power plant
 ---
 
-**cloudkraftwerk aggregates and controls wind and solar power plants to react to energy markets in real-time.**
+cloudkraftwerk aggregates and controls wind and solar power plants to react to energy markets in real-time.
 
 Stay tuned! :rocket:
 
