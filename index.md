@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Welcome to the cloudkraftwerk
+title: Welcome to cloudkraftwerk
 ---
 
 **We are aggregating and enabling terrawatts of volatile wind and solar power plants to react to energy markets in real-time.**
