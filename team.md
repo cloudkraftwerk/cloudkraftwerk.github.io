@@ -1,9 +1,7 @@
 ---
 layout: page
-title: Our Values
+title: Who we are?
 ---
-
-# Who we are?
 
 We are a team of experienced engineers, computer scientists and energy trading experts who want to build a more secure, stable and sustainable energy system with digital-native technologies.
 
