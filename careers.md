@@ -6,7 +6,7 @@ title: Careers
 # Our Values
 
 * **Security and availability over everything**. We are controlling power plants, not coffee machines. 
-* **Quality build-in**. We believe that clean code and tests are always step one and never step two, because in reality there is never the time 
+* **Quality built-in**. We believe that clean code and tests are always step one and never step two, because in reality there is never the time 
 to tidy up and decrease technical debt. 
 * **Teamwork over heroism.** We believe that high-quality software is build by professionally organized teams and not by one man bands.
 * **Lightweight technologies over big fat frameworks.** We don't only want to reduce the CO2 footprint, but also the memory footprint.
