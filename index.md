@@ -1,9 +1,7 @@
 ---
 layout: page
-title: About
+title: Welcome to the first cloud-native power plant 
 ---
-
-# Welcome to the first cloud-native power plant 
 
 **Our mission is to enable terrawatts of wind and solar power plants for priced-based control and grid balancing services in real-time.**
 
