@@ -7,7 +7,7 @@ title: Welcome to cloudkraftwerk
 
 # Why?
 
-Today, most renewable assets produce energy based on weather conditions and not based on demand. This leads to high imbalances in power grids which need to be balanced with more predictable and controllable coal, nuclear or gas power plants. Balancing the grid using conventional power plants causes high emissions and high balance energy prices. Costs have to be paied by volatile renewable assets and hinder their economical operations. We believe in a zero-emission energy system where distributed renewable assets can balance themself. Using cloud-native IoT technologies we aggregate and control volatile renewables in real-time, based on energy demand.
+Today, most renewable assets produce energy based on weather conditions and not based on demand. This leads to high imbalances in power grids which need to be balanced with more predictable and controllable coal, nuclear or gas power plants. Using conventionals causes high emissions and high balance energy prices. Costs have to be paied by volatile renewable assets and hinder their economical operations. We believe in a zero-emission energy system where distributed renewable assets can balance themself. Using cloud-native IoT technologies we aggregate and control volatile renewables in real-time to balance energy production and demand.
 
 # Features
 
