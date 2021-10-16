@@ -3,7 +3,7 @@ layout: page
 title: Welcome to the cloudkraftwerk
 ---
 
-**We are enabling volatile wind and solar power plants to react to energy demand in real-time.**
+**We are aggregating and enabling terrawatts of volatile wind and solar power plants to react to energy markets in real-time.**
 
 # Features
 
