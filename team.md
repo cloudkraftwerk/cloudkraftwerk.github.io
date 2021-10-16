@@ -12,7 +12,7 @@ We are a team of passionate engineers, computer scientists and energy trading ex
 to tidy up and decrease technical debt afterwards.
 * **Teamwork over heroism.** We believe that high quality software is built and operated by professionally organized teams and not by one man bands.
 * **Economical pragmatism over technical perfection.**  We are not a science lab and prefer solutions that are in time and budget, instead of overengineered solutions that can't be paied by customers and never get finished.
-* **Lightweight technologies over big fat frameworks.** We don't only want to reduce CO2 footprints, but also memory and CPU footprints. We believe that simple solutions are more reliable than complex solutions.
+* **Lightweight technologies over fat frameworks.** We don't only want to reduce CO2 footprints, but also memory and CPU footprints. We believe that simple solutions are more reliable than complex solutions.
 
 <!-- # Open Positions
 
