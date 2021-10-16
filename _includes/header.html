@@ -24,9 +24,19 @@
             Community
           </a>
           <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-            <li><a class="dropdown-item" href="#">JIRA</a></li>
-            <li><a class="dropdown-item" href="{{ site.github.repository_url }}">GitHub</a></li>
+            <a class="dropdown-item" href="#">Action</a>
+            <a class="dropdown-item" href="#">Another action</a>
+            <a class="dropdown-item" href="#">Something else here</a>
           </div>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+            Community2
+          </a>
+          <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+            <li><a class="dropdown-item" href="#">JIRA</a></li>
+            <li><a class="dropdown-item" href="{{ site.github.repository_url }}">GitHub</a></li>          
+          </ul>
         </li>        
         <!--{%- for path in page_paths -%}
           {%- assign my_page = site.pages | where: "path", path | first -%}
