@@ -11,7 +11,7 @@ Today, most renewable assets produce energy based on weather conditions and not 
 
 # Who we are?
 
-We are a team of experienced engineers, computer scientists and energy trading experts who help to build a more secure, stable and sustainable system of energy production and consumption with the help of IoT technologies and smart algorithms.
+We are a team of experienced engineers, computer scientists and energy trading experts who want to build a more secure, stable and sustainable energy system with cloud-native technologies.
 
 # Features
 
