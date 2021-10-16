@@ -3,7 +3,7 @@ layout: page
 title: Who we are?
 ---
 
-We are a team of digital native engineers, computer scientists and energy trading experts on a mission to build a more secure, stable and sustainable energy system with cloud-native IoT technologies.
+We are a team of passionate engineers, computer scientists and energy trading experts on a mission to build a more secure, stable and sustainable energy system with cloud-native IoT technologies.
 
 # Our Values
 
