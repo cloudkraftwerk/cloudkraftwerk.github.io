@@ -11,7 +11,7 @@ Today, most renewable assets produce energy mainly based on weather conditions a
 
 # Who we are?
 
-We are a team of passionate engineers, computer scientists and energy trading experts who help to build a more secure, stable and sustainable system of energy production and consumption with the help of IoT technology and smart algorithms.
+We are a team of experienced engineers, computer scientists and energy trading experts who help to build a more secure, stable and sustainable system of energy production and consumption with the help of IoT technologies and smart algorithms.
 
 # Features of cloudkraftwerk
 
