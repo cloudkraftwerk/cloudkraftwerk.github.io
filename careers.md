@@ -3,31 +3,19 @@ layout: page
 title: Careers
 ---
 
-# Senior Backend Engineer
+# Our Values
 
-## Responsibilites
+* **Security and availability over everything**. We are controlling power plants, not coffee machines. 
+* **Quality build-in**. We believe that clean code and tests are always step one and never step two, because in reality there is never the time 
+to tidy up and decrease technical debt. 
+* **Teamwork over heroism.** We believe that high-quality software is build by professionally organized teams and not by one man bands.
+* **Lightweight technologies over big fat frameworks.** We don't only want to reduce the CO2 footprint, but also the memory footprint.
+* **Economical pragmatism over technical perfection.**  We are not a science lab and prefer solutions that are in time and budget, instead of overengineered solutions that never gets paied by customers and never get finished.
+* **Fail fast**. Do or do not, there is not try. If things fail in production, we accept it, but we always have rollback automations in place.
 
-* Design, write, ship and maintain software components
-* Support product management with refinements
-* Take ownership of software components
+# Open Positions
 
-## Requirements
-
-* Masters degree in computer science
-* 5+ years experience in a modern programming language (Golang, Java, Python)
-* Experience with MySQL databases
-* Experiences in TCP-based protocols and MQTT preferable
-
-# Technical Product Manager
-
-## Responsibilites
-
-* Design, write, ship and maintain software components
-* Support product management with refinements
-* Take ownership of software components
-
-## Requirements
-
-* Design, write, ship and maintain software components
-* Support product management with refinements
-* Take ownership of software components
+## Technical Product Manager
+## Senior Backend Engineer
+## Senior DevOps Engineer
+## Asset Integration Consultant
